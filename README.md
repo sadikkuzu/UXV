@@ -5,7 +5,7 @@
 ```
 git clone https://github.com/sadikkuzu/UXV.git
 cd UXV
-bash -x vnc-xfce4.sh
+./vnc-xfce4.sh
 ```
 
 ### Direct Installation
