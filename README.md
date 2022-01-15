@@ -14,3 +14,7 @@ $ bash -c "$(wget -qO- https://raw.githubusercontent.com/sadikkuzu/UXV/master/in
 ```
 
 ###### [source](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-vnc-on-ubuntu-18-04)
+
+---
+
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/sadikkuzu/UXV/master.svg)](https://results.pre-commit.ci/latest/github/sadikkuzu/UXV/master)
