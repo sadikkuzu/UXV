@@ -1,5 +1,9 @@
 #!/usr/bin/env sh
 
-git clone https://github.com/sadikkuzu/UXV.git
-cd UXV
-./vnc-xfce4.sh
+clone-and-install() {
+    git clone https://github.com/sadikkuzu/UXV.git
+    cd UXV
+    ./vnc-xfce4.sh
+}
+
+clone-and-install
